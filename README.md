@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.
 
+We are angularizing a simple layout taken from [W3 schools tutorial](https://www.w3schools.com/css/tryit.asp?filename=trycss_website_layout_blog)
+
+Steps:
+
+1. components
+2. moving components into modules
+3. introducing shared and core modules
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
